@@ -1,0 +1,3 @@
+setup.py: With it's help we are able to create ML applications as a package and even deploy in pypi.
+
+# If we want any folder to be recognised as package, then for that we need to create a __init__.py file into that folder
